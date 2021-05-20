@@ -1,0 +1,16 @@
+*, ::after, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f1f1f1;
+    height: 100vh;
+
+    /* background: linear-gradient(180deg, #FDB99B, 30%, #CD8BF3, crimson); */
+    /* background: linear-gradient(45deg, #FDB99B, #CD8BF3); */
+    /* background: linear-gradient(to bottom right, #FDB99B, #CD8BF3); */
+    /* background: linear-gradient(to right, #FDB99B, #CD8BF3); */
+    background: radial-gradient(#FDB99B, #CD8BF3);
+}
